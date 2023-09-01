@@ -1,58 +1,27 @@
-Contribution: 2018-12-20 20:00
+# CountryView
 
-Contribution: 2018-12-20 20:01
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
-Contribution: 2018-12-20 20:02
+## Development server
 
-Contribution: 2018-12-20 20:03
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-Contribution: 2018-12-21 20:00
+## Code scaffolding
 
-Contribution: 2018-12-21 20:01
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Contribution: 2018-12-21 20:02
+## Build
 
-Contribution: 2018-12-21 20:03
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-Contribution: 2018-12-24 20:00
+## Running unit tests
 
-Contribution: 2018-12-24 20:01
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Contribution: 2018-12-24 20:02
+## Running end-to-end tests
 
-Contribution: 2018-12-24 20:03
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-Contribution: 2018-12-24 20:04
+## Further help
 
-Contribution: 2018-12-25 20:00
-
-Contribution: 2018-12-25 20:01
-
-Contribution: 2018-12-25 20:02
-
-Contribution: 2018-12-25 20:03
-
-Contribution: 2018-12-26 20:00
-
-Contribution: 2018-12-26 20:01
-
-Contribution: 2018-12-26 20:02
-
-Contribution: 2018-12-26 20:03
-
-Contribution: 2018-12-27 20:00
-
-Contribution: 2018-12-27 20:01
-
-Contribution: 2018-12-27 20:02
-
-Contribution: 2018-12-28 20:00
-
-Contribution: 2018-12-28 20:01
-
-Contribution: 2018-12-28 20:02
-
-Contribution: 2018-12-28 20:03
-
-Contribution: 2018-12-28 20:04
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
